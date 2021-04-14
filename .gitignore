@@ -1,2 +1,4 @@
 tenv/
 *.pyproj
+*.suo
+*.sln
